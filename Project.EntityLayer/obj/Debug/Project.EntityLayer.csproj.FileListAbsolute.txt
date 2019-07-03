@@ -1,0 +1,12 @@
+C:\Users\Alparslan\Desktop\Summerskip\Projeler\Summerskip 3.Proje\DeyisUygulamasi\Project.EntityLayer\bin\Debug\Project.EntityLayer.dll.config
+C:\Users\Alparslan\Desktop\Summerskip\Projeler\Summerskip 3.Proje\DeyisUygulamasi\Project.EntityLayer\bin\Debug\Project.EntityLayer.dll
+C:\Users\Alparslan\Desktop\Summerskip\Projeler\Summerskip 3.Proje\DeyisUygulamasi\Project.EntityLayer\bin\Debug\Project.EntityLayer.pdb
+C:\Users\Alparslan\Desktop\Summerskip\Projeler\Summerskip 3.Proje\DeyisUygulamasi\Project.EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\Alparslan\Desktop\Summerskip\Projeler\Summerskip 3.Proje\DeyisUygulamasi\Project.EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alparslan\Desktop\Summerskip\Projeler\Summerskip 3.Proje\DeyisUygulamasi\Project.EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\Alparslan\Desktop\Summerskip\Projeler\Summerskip 3.Proje\DeyisUygulamasi\Project.EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alparslan\Desktop\Summerskip\Projeler\Summerskip 3.Proje\DeyisUygulamasi\Project.EntityLayer\obj\Debug\Project.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Alparslan\Desktop\Summerskip\Projeler\Summerskip 3.Proje\DeyisUygulamasi\Project.EntityLayer\obj\Debug\Project.EntityLayer.csproj.CopyComplete
+C:\Users\Alparslan\Desktop\Summerskip\Projeler\Summerskip 3.Proje\DeyisUygulamasi\Project.EntityLayer\obj\Debug\Project.EntityLayer.dll
+C:\Users\Alparslan\Desktop\Summerskip\Projeler\Summerskip 3.Proje\DeyisUygulamasi\Project.EntityLayer\obj\Debug\Project.EntityLayer.pdb
+C:\Users\Alparslan\Desktop\Summerskip\Projeler\Summerskip 3.Proje\DeyisUygulamasi\Project.EntityLayer\obj\Debug\Project.EntityLayer.csprojAssemblyReference.cache
