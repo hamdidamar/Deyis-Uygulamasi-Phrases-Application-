@@ -10,5 +10,10 @@ namespace Project.BusinessLayer.Classes.HeapNodeClasses
 {
     public class OzdeyisHeapDugumu : HeapDugumu<Ozdeyis>
     {
+        public Ozdeyis ozdeyis { get; set; }
+        public OzdeyisHeapDugumu()
+        {
+            this.ozdeyis = ozdeyis;
+        }
     }
 }
